@@ -1,2 +1,2 @@
 # basic-rest-web-service-spring
-Restfull web services fa a simple project 
+Restfull web services for a simple project 
